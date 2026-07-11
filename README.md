@@ -1,4 +1,4 @@
-# 🚗 Electric Vehicle Sales Dashboard
+# 🚗 Electric Vehicle Sales Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
 This Power BI dashboard analyzes Electric Vehicle (EV) sales across India from 2021 to 2024. The dashboard provides insights into EV sales trends, top-performing states, vehicle categories, and overall market performance to support data-driven decision-making.
